@@ -1,0 +1,328 @@
+[
+    {
+      "event": {
+        "timestamp": 1649719002000,
+        "effectiveness": 0.38107084002836394,
+        "location": 13,
+        "eventInfo": {
+          "currentEvent": {
+            "type": "MISCONTROLLED",
+            "attackingLocation": 13,
+            "location": 13,
+            "attackingTeamDoesEvent": true
+          },
+          "nextEvent": {
+            "type": "CARRY",
+            "attackingLocation": 13,
+            "location": 6,
+            "attackingTeamDoesEvent": false
+          },
+          "changePossession": false,
+          "count": 103
+        },
+        "type": 3,
+        "playerId": "0-14-12",
+        "clubId": 14
+      },
+      "scoreline": [
+        0,
+        0
+      ],
+      "ballPosition": 13,
+      "teamInPossession": 1896,
+      "playerInPossession": "0-1896-8",
+      "seed": "aada811cd709f29f0c07f3991512a506",
+      "realWorldTimestamp": 1672592661391
+    },
+    {
+      "event": {
+        "timestamp": 1649719005000,
+        "effectiveness": 0.6663772185953281,
+        "location": 13,
+        "eventInfo": {
+          "currentEvent": {
+            "type": "CARRY",
+            "attackingLocation": 13,
+            "location": 13,
+            "attackingTeamDoesEvent": true
+          },
+          "nextEvent": {
+            "type": "PASS",
+            "attackingLocation": 13,
+            "location": 13,
+            "attackingTeamDoesEvent": true
+          },
+          "changePossession": false,
+          "count": 19159
+        },
+        "type": 27,
+        "passHeight": 0,
+        "passTechnique": 4,
+        "bodyPart": 1,
+        "backHeel": false,
+        "deflected": false,
+        "cross": false,
+        "cutback": true,
+        "success": false,
+        "throwIn": true,
+        "clubId": 1896,
+        "playerId": "0-1896-8"
+      },
+      "scoreline": [
+        0,
+        0
+      ],
+      "ballPosition": 13,
+      "teamInPossession": 1896,
+      "playerInPossession": "0-1896-8",
+      "seed": "6df1e0de1fe1b0d82f39ad5b53c8b839",
+      "realWorldTimestamp": 1672592662174
+    },
+    {
+      "event": {
+        "timestamp": 1649719008000,
+        "effectiveness": 0.8985848834036348,
+        "location": 6,
+        "eventInfo": {
+          "currentEvent": {
+            "type": "PASS",
+            "attackingLocation": 13,
+            "location": 13,
+            "attackingTeamDoesEvent": true
+          },
+          "nextEvent": {
+            "type": "PASS",
+            "attackingLocation": 6,
+            "location": 6,
+            "attackingTeamDoesEvent": true
+          },
+          "changePossession": true,
+          "count": 330
+        },
+        "type": 27,
+        "passHeight": 5,
+        "passTechnique": 3,
+        "bodyPart": 7,
+        "backHeel": false,
+        "deflected": true,
+        "cross": false,
+        "cutback": true,
+        "success": true,
+        "throwIn": false,
+        "clubId": 1896,
+        "playerId": "0-1896-8"
+      },
+      "scoreline": [
+        0,
+        0
+      ],
+      "ballPosition": 6,
+      "teamInPossession": 1896,
+      "playerInPossession": "0-1896-8",
+      "seed": "ef8f6c822148d66b48a1f9dbe725b7f1",
+      "realWorldTimestamp": 1672592662957
+    },
+    {
+      "event": {
+        "timestamp": 1649719011000,
+        "effectiveness": 0.7424675428174593,
+        "location": 4,
+        "eventInfo": {
+          "currentEvent": {
+            "type": "PASS",
+            "attackingLocation": 6,
+            "location": 6,
+            "attackingTeamDoesEvent": true
+          },
+          "nextEvent": {
+            "type": "PASS",
+            "attackingLocation": 4,
+            "location": 4,
+            "attackingTeamDoesEvent": true
+          },
+          "changePossession": true,
+          "count": 193
+        },
+        "type": 27,
+        "passHeight": 3,
+        "passTechnique": 7,
+        "bodyPart": 6,
+        "backHeel": false,
+        "deflected": false,
+        "cross": false,
+        "cutback": true,
+        "success": false,
+        "throwIn": false,
+        "clubId": 14,
+        "playerId": "0-14-2"
+      },
+      "scoreline": [
+        0,
+        0
+      ],
+      "ballPosition": 4,
+      "teamInPossession": 14,
+      "playerInPossession": "0-1896-8",
+      "seed": "68175271016706ca5a5f2d981a7e16d1",
+      "realWorldTimestamp": 1672592663739
+    },
+    {
+      "event": {
+        "timestamp": 1649719014000,
+        "effectiveness": 0.15480858743069895,
+        "location": 1,
+        "eventInfo": {
+          "currentEvent": {
+            "type": "PASS",
+            "attackingLocation": 4,
+            "location": 4,
+            "attackingTeamDoesEvent": true
+          },
+          "nextEvent": {
+            "type": "BALL_RECEIPT",
+            "attackingLocation": 1,
+            "location": 1,
+            "attackingTeamDoesEvent": true
+          },
+          "changePossession": false,
+          "count": 1882
+        },
+        "type": 1,
+        "clubId": 1896,
+        "playerId": "0-1896-16",
+        "success": false
+      },
+      "scoreline": [
+        0,
+        0
+      ],
+      "ballPosition": 1,
+      "teamInPossession": 1896,
+      "playerInPossession": "0-14-2",
+      "seed": "700e89f51b588c89dbb116ad7bd6a0a8",
+      "realWorldTimestamp": 1672592664522
+    },
+    {
+      "event": {
+        "timestamp": 1649719017000,
+        "effectiveness": 0.10617927138371842,
+        "location": 1,
+        "eventInfo": {
+          "currentEvent": {
+            "type": "BALL_RECEIPT",
+            "attackingLocation": 1,
+            "location": 1,
+            "attackingTeamDoesEvent": true
+          },
+          "nextEvent": {
+            "type": "CARRY",
+            "attackingLocation": 1,
+            "location": 1,
+            "attackingTeamDoesEvent": true
+          },
+          "changePossession": false,
+          "count": 6497
+        },
+        "type": 3,
+        "playerId": "0-1896-16",
+        "clubId": 1896
+      },
+      "scoreline": [
+        0,
+        0
+      ],
+      "ballPosition": 1,
+      "teamInPossession": 1896,
+      "playerInPossession": "0-1896-16",
+      "seed": "773dc1cec69eb615acf787d1c5ba6ea5",
+      "realWorldTimestamp": 1672592665304
+    },
+    {
+      "event": {
+        "timestamp": 1649719020000,
+        "effectiveness": 0.5949430534604339,
+        "location": 2,
+        "eventInfo": {
+          "currentEvent": {
+            "type": "CARRY",
+            "attackingLocation": 1,
+            "location": 1,
+            "attackingTeamDoesEvent": true
+          },
+          "nextEvent": {
+            "type": "PASS",
+            "attackingLocation": 2,
+            "location": 2,
+            "attackingTeamDoesEvent": true
+          },
+          "changePossession": false,
+          "count": 646
+        },
+        "type": 27,
+        "passHeight": 2,
+        "passTechnique": 7,
+        "bodyPart": 4,
+        "backHeel": false,
+        "deflected": true,
+        "cross": false,
+        "cutback": false,
+        "success": false,
+        "throwIn": true,
+        "clubId": 1896,
+        "playerId": "0-1896-16"
+      },
+      "scoreline": [
+        0,
+        0
+      ],
+      "ballPosition": 2,
+      "teamInPossession": 1896,
+      "playerInPossession": "0-1896-16",
+      "seed": "d24e3ac4699b0c484174860bbb7ab107",
+      "realWorldTimestamp": 1672592666087
+    },
+    {
+      "event": {
+        "timestamp": 1649719023000,
+        "effectiveness": 0.39895166070176097,
+        "location": 13,
+        "eventInfo": {
+          "currentEvent": {
+            "type": "PASS",
+            "attackingLocation": 2,
+            "location": 2,
+            "attackingTeamDoesEvent": true
+          },
+          "nextEvent": {
+            "type": "PASS",
+            "attackingLocation": 13,
+            "location": 6,
+            "attackingTeamDoesEvent": false
+          },
+          "changePossession": false,
+          "count": 44
+        },
+        "type": 27,
+        "passHeight": 5,
+        "passTechnique": 0,
+        "bodyPart": 4,
+        "backHeel": true,
+        "deflected": true,
+        "cross": false,
+        "cutback": false,
+        "success": true,
+        "throwIn": true,
+        "clubId": 14,
+        "playerId": "0-14-0"
+      },
+      "scoreline": [
+        0,
+        0
+      ],
+      "ballPosition": 13,
+      "teamInPossession": 1896,
+      "playerInPossession": "0-1896-16",
+      "seed": "d5a2fe2d61949900829c8c765b4f2c67",
+      "realWorldTimestamp": 1672592666870
+    }
+  ]
