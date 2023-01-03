@@ -9,14 +9,15 @@ import {
   from,
 } from "@apollo/client";
 
-import Button from '@mui/material/Button';
 
 import { onError } from "@apollo/client/link/error";
 
-import GetFixtures from './components/GetFixtures';
-
-import GetFixtureResults from './components/GetFixtureResults';
 import HomePage from "./pages/HomePage";
+
+import ReactGA from 'react-ga';
+
+const TRACKING_ID = "G-R5DCMHSGW9"; // OUR_TRACKING_ID
+ReactGA.initialize(TRACKING_ID);
 
 const errorLink = onError(({ graphqlErrors, networkError }) => {
   if (graphqlErrors) {
