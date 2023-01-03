@@ -52,6 +52,21 @@ function HomePage() {
           <MenuItem value={17}>Divison 4 - League 2</MenuItem>
           <MenuItem value={19}>Divison 4 - League 3</MenuItem>
           <MenuItem value={21}>Divison 4 - League 4</MenuItem>
+          <MenuItem value={23}>Divison 4 - League 5</MenuItem>
+          <MenuItem value={25}>Divison 4 - League 6</MenuItem>
+          <MenuItem value={27}>Divison 4 - League 7</MenuItem>
+          <MenuItem value={29}>Divison 4 - League 8</MenuItem>
+          <MenuItem value={31}>Divison 5 - League 1</MenuItem>
+          <MenuItem value={33}>Divison 5 - League 2</MenuItem>
+          <MenuItem value={35}>Divison 5 - League 3</MenuItem>
+          <MenuItem value={37}>Divison 5 - League 4</MenuItem>
+          <MenuItem value={39}>Divison 5 - League 5</MenuItem>
+          <MenuItem value={41}>Divison 5 - League 6</MenuItem>
+          <MenuItem value={43}>Divison 5 - League 7</MenuItem>
+          <MenuItem value={45}>Divison 5 - League 8</MenuItem>
+          <MenuItem value={47}>Divison 5 - League 9</MenuItem>
+          <MenuItem value={49}>Divison 5 - League 10</MenuItem>
+          <MenuItem value={51}>Divison 5 - League 11</MenuItem>
         </Select>
       </FormControl>
       <Box sx={{ width: "100%", typography: "body1" }}>
